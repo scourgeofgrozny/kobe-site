@@ -4,8 +4,11 @@
         {
             "type": "pwa-chrome",
             "request": "launch",
-            "name": "Launch Chrome against localhost",
-            "url": "localhost",
+            "name": "Launch Chrome against localhost", 
+            
+            "_comment": "copy/paste file path into url field,
+            "url": "",
+            
             "webRoot": "${workspaceFolder}"
         }
     ]
