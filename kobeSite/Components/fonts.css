@@ -1,0 +1,20 @@
+html{
+    background-image:url(https://www.biography.com/.image/ar_1:1,c_fill,cs_srgb,g_face,q_auto:good,w_300/MTgwMzQyOTk2OTY3ODkyODQ0/gettyimages-490703338.jpg);
+}
+.header{
+font-size:30px;
+font-weight: 700;
+margin-bottom:20px;
+}
+.text1 {
+font-family:'Courier New', Courier, monospace;
+font-weight: 700;
+color:rgb(0, 132, 255);
+margin-bottom:20px;
+}
+.text2 {
+font-family: 'Courier New', Courier, monospace;
+font-weight: 700;
+color:rgb(0, 132, 255);
+margin-bottom:20px;
+}
