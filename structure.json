@@ -1,0 +1,31 @@
+[
+    {
+        "name": "kobeSite",
+        "type": "folder",
+        "children": [
+            {   
+            
+                "name": "sitepage.html",
+                "type": "file",
+                
+
+                "name": "Components",
+                "type": "folder",
+                "children": [
+                    {
+                        "type": "file",
+                        "name": "fonts.css"
+                    },
+                    {
+                        "type": "file",
+                        "name": "launch.json"
+                    },
+                    {
+                        "type": "file",
+                        "name": "orientation.css"
+                    }
+                ]
+            }
+        ]
+    }
+]
